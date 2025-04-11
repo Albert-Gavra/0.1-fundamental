@@ -1,4 +1,4 @@
-/// <reference types="cypress" />\
+/// <reference types="cypress" />
 
 describe('Working with inputs', () => {
     beforeEach(() => {
